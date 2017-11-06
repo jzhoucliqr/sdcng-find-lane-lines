@@ -7,7 +7,7 @@ The goals / steps of this project are the following:
 
 Here are the final results on test images:
 
-![solidWhiteCurve] (./test_images_output/solidWhiteCurve.png)
+![solidWhiteCurve] (test_images_output/solidWhiteCurve.png)
 
 ![solidWhiteRight] (./test_images_output/solidWhiteRight.png "solidWhiteRight")
 ![solidYellowCurve] (./test_images_output/solidYellowCurve.png "solidYellowCurve")
